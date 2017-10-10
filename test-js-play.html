@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+</head>
+
+<body>
+<div id="root"></div>
+<script>
+	function tick() {
+	  return '<div><h1>What is the Time Now?</h1><h2>It is ' + new Date().toLocaleTimeString() + '.</h2></div>';
+	};
+	
+	setInterval(function () {document.getElementById('root').innerHTML = tick();}, 1000);
+</script>
+</body>
+
+</html>
