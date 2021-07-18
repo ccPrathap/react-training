@@ -1,0 +1,49 @@
+***** DAY 1 ******
+JavaScript -
+
+--- Basics
+Grammar and types
+Functions
+Using promises
+JavaScript modules
+
+--- Intermediate
+JavaScript data structures
+Closures
+
+--- Advanced
+Inheritance and the prototype chain
+
+
+Software -
+1. Node js
+2. Visual Studio Code
+3. Git tool
+
+Create a Github account...
+----------------------------------------------------------------------------
+***** DAY 3 ******
+
+=========== Browser - Event loop architecture ===========
+https://www.youtube.com/watch?v=8aGhZQkoFbQ&vl=en
+https://dev.to/lydiahallie/javascript-visualized-event-loop-3dif
+https://medium.com/front-end-weekly/javascript-event-loop-explained-4cd26af121d4
+
+=========== Node.js - Event loop architecture ===========
+https://morioh.com/p/8d23e98f17e8
+https://www.geeksforgeeks.org/why-node-js-is-a-single-threaded-language/
+https://dev.to/tejaskaneriya/what-is-node-js-a-brief-introduction-to-how-node-js-works-26c8
+
+DOM Event life cycle: 
+https://medium.com/prod-io/javascript-understanding-dom-event-life-cycle-49e1cf62b2ea
+
+-------------------------------------------------------------------------------------------
+
+Redux:
+
+https://redux.js.org/api/api-reference
+https://redux.js.org/introduction/ecosystem#table-of-contents
+
+https://css-tricks.com/learning-react-redux/
+
+https://github.com/ccPrathap/manage-courses
